@@ -14,8 +14,8 @@ const Mani = {
             spring: ["web api","root"],
         },
         frontEnd: {
-            React,
-            Vanila,
+            React: True,
+            Vanila: True,
             Learning:  ["TypeScript", "Angular"],
         },
     },
