@@ -1,17 +1,25 @@
 ```javascript
 const Mani = {
     pronouns: "Hi" | "Him",
-    code: ["C#"],
+    code: ["C#"]
+    code: ["Python"],
+    code: ["C++"],
+    code: ["java"],
+    code: ["javascript"],
     technologies: {
         backEnd: {
-            ASP NETcore: ["MVC", "Razor Pages"],
+            ASP NETcore: ["MVC", "Razor Pages","Web api"],
+            Django: ["web api"],
+            Dragon: ["web api"],
+            spring root: ["web api"],
         },
         frontEnd: {
+            React,
+            Vanila,
             Learning:  ["TypeScript", "Angular"],
         },
     },
     architecture: ["Onion Architecture"],
     quote: "I Can Fix The World If You Give The Source Code"
 };
-```
-![](https://komarev.com/ghpvc/?username=mani-agah-esmaeilzad)
+``
