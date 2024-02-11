@@ -1,7 +1,7 @@
 ```javascript
 const Mani = {
     pronouns: "Hi" | "Him",
-    code: ["C#"]
+    code: ["C#"],
     code: ["Python"],
     code: ["C++"],
     code: ["java"],
@@ -11,7 +11,7 @@ const Mani = {
             ASP NETcore: ["MVC", "Razor Pages","Web api"],
             Django: ["web api"],
             Dragon: ["web api"],
-            spring root: ["web api"],
+            spring: ["web api","root"],
         },
         frontEnd: {
             React,
