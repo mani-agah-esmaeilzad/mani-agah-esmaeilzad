@@ -1,6 +1,6 @@
 ```javascript
 const Mani = {
-    pronouns: "Hi" | "Him",
+    pronouns: "He" | "Him",
     code: ["C#"],
     code: ["Python"],
     code: ["C++"],
