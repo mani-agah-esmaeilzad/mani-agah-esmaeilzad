@@ -22,4 +22,4 @@ const Mani = {
     architecture: ["Onion Architecture"],
     quote: "I Can Fix The World If You Give The Source Code"
 };
-``
+```
