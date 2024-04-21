@@ -11,9 +11,8 @@ const Mani = {
             Learning: ["Laravel"]
         },
         frontEnd: {
-            React: True,
             Vanila: True,
-            Learning:  ["TypeScript", "Angular"],
+            Learning:  ["React"],
         },
     },
     architecture: ["Onion Architecture"],
