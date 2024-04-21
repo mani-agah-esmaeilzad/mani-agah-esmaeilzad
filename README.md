@@ -3,15 +3,12 @@ const Mani = {
     pronouns: "He" | "Him",
     code: ["C#"],
     code: ["Python"],
-    code: ["C++"],
-    code: ["java"],
+    code: ["PHP"],
     code: ["javascript"],
     technologies: {
         backEnd: {
             ASP NETcore: ["MVC", "Razor Pages","Web api"],
-            Django: ["web api"],
-            Dragon: ["web api"],
-            spring: ["web api","root"],
+            Learning: ["Laravel"]
         },
         frontEnd: {
             React: True,
